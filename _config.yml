@@ -7,13 +7,13 @@ title: ''
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Cocola6s6
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://cocola6s6.top:8888/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
