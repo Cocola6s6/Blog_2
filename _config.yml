@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ''
-subtitle: ''
+title: 'www.cocola6s6.top'
+subtitle: 'Be curiosity, Be curiosity'
 description: ''
 keywords:
 author: Cocola6s6
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://cocola6s6.top:8888/
+url: https://www.cocola6s6.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
